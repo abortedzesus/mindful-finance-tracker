@@ -16,8 +16,6 @@ A full-stack expense tracking web app inspired by the Japanese **Kakeibo** metho
 - **Database:** MySQL
 - **Auth:** JWT-based authentication
 
-## 📸 Screenshots
-
 
 ## ⚙️ Setup
 
