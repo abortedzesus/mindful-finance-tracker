@@ -1,0 +1,5 @@
+@import "tailwindcss";
+@font-face {
+  font-family: "The Seasons";
+  src: url("/src/assets/fonts/TheSeasons-Regular.otf") format("opentype");
+}
