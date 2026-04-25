@@ -7,7 +7,7 @@ import Signup from "./pages/signup";
 import Dashboard from "./pages/dashboard";
 import AddExpense from "./pages/AddExpense";
 import Expense from "./pages/Expense";
-import EditExpense from "./pages/EditExpense";
+import EditExpense from "./pages/editexpense";
 import Bills from "./pages/bills";
 import Savings from "./pages/savings";
 import Profile from "./pages/profile";
